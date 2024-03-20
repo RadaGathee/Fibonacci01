@@ -1,0 +1,10 @@
+C:\Users\Angel Jerry\source\repos\Jango01\Jango01\bin\Debug\Jango01.exe.config
+C:\Users\Angel Jerry\source\repos\Jango01\Jango01\bin\Debug\Jango01.exe
+C:\Users\Angel Jerry\source\repos\Jango01\Jango01\bin\Debug\Jango01.pdb
+C:\Users\Angel Jerry\source\repos\Jango01\Jango01\obj\Debug\Jango01.csproj.AssemblyReference.cache
+C:\Users\Angel Jerry\source\repos\Jango01\Jango01\obj\Debug\Jango01.Properties.Resources.resources
+C:\Users\Angel Jerry\source\repos\Jango01\Jango01\obj\Debug\Jango01.csproj.GenerateResource.cache
+C:\Users\Angel Jerry\source\repos\Jango01\Jango01\obj\Debug\Jango01.csproj.CoreCompileInputs.cache
+C:\Users\Angel Jerry\source\repos\Jango01\Jango01\obj\Debug\Jango01.exe
+C:\Users\Angel Jerry\source\repos\Jango01\Jango01\obj\Debug\Jango01.pdb
+C:\Users\Angel Jerry\source\repos\Jango01\Jango01\obj\Debug\Jango01.Bado.resources
