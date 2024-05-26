@@ -1,2 +1,3 @@
+# Fibonacci Sequence
 Project made with C# and the .NET framework - Windows Forms App -
-Does Fibonacci calculations
+Generates a Fibonacci Sequence
