@@ -8,3 +8,13 @@ C:\Users\Angel Jerry\source\repos\Jango01\Jango01\obj\Debug\Jango01.csproj.CoreC
 C:\Users\Angel Jerry\source\repos\Jango01\Jango01\obj\Debug\Jango01.exe
 C:\Users\Angel Jerry\source\repos\Jango01\Jango01\obj\Debug\Jango01.pdb
 C:\Users\Angel Jerry\source\repos\Jango01\Jango01\obj\Debug\Jango01.Bado.resources
+D:\projects2024\FiboCalc\Fibonacci-Calc\Jango01\Jango01\bin\Debug\Jango01.exe.config
+D:\projects2024\FiboCalc\Fibonacci-Calc\Jango01\Jango01\bin\Debug\Jango01.exe
+D:\projects2024\FiboCalc\Fibonacci-Calc\Jango01\Jango01\bin\Debug\Jango01.pdb
+D:\projects2024\FiboCalc\Fibonacci-Calc\Jango01\Jango01\obj\Debug\Jango01.csproj.AssemblyReference.cache
+D:\projects2024\FiboCalc\Fibonacci-Calc\Jango01\Jango01\obj\Debug\Jango01.Bado.resources
+D:\projects2024\FiboCalc\Fibonacci-Calc\Jango01\Jango01\obj\Debug\Jango01.Properties.Resources.resources
+D:\projects2024\FiboCalc\Fibonacci-Calc\Jango01\Jango01\obj\Debug\Jango01.csproj.GenerateResource.cache
+D:\projects2024\FiboCalc\Fibonacci-Calc\Jango01\Jango01\obj\Debug\Jango01.csproj.CoreCompileInputs.cache
+D:\projects2024\FiboCalc\Fibonacci-Calc\Jango01\Jango01\obj\Debug\Jango01.exe
+D:\projects2024\FiboCalc\Fibonacci-Calc\Jango01\Jango01\obj\Debug\Jango01.pdb
